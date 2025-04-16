@@ -1,5 +1,6 @@
 # SchistoFoodStudyPowerAnalysis
 Power analysis to study the effect of food diet after PZQ treatment.
+Adapted from https://github.com/pcdjohnson/SchistoDrivers
 
 The model simulates 1000 datasets.
 
